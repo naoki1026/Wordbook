@@ -1,0 +1,6 @@
+framework module Pods_wordbook {
+  umbrella header "Pods-wordbook-umbrella.h"
+
+  export *
+  module * { export * }
+}
